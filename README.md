@@ -5,6 +5,5 @@ Features:
 <ul>
   <li>Editing: Provides an intuitive interface for formatting text.</li>
   <li>Customizable Toolbar: Allows users to easily apply different text styles and formatting options.</li>
-  <li>Rich Module Support: Includes modules for handling images, videos, links, and more.
-</li>
+  <li>Rich Module Support: Includes modules for handling images, videos, links, and more.</li>
 </ul>
