@@ -1,5 +1,5 @@
 <h5>React Quill Editor Component</h5>
-The React Quill Editor component (react-quill) provides a rich text editor for React applications, offering a WYSIWYG (What You See Is What You Get) editing experience. It supports various formatting options like bold, italic, lists, links, and more, making it ideal for content creation applications.
+The React Quill Editor component (react-quill) provides a rich text editor for React applications, offering a WYSIWYG (What You See Is What You Get) editing experience. It supports various formatting options like bold, italic, lists(ordered and unordered), links, and more, making it ideal for content creation applications.
 
 Features:
 <ul>
